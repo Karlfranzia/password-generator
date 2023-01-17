@@ -4,3 +4,5 @@
 
 
 ![project screenshot](password-generator.png)
+
+https://karlfranzia.github.io/password-generator/
